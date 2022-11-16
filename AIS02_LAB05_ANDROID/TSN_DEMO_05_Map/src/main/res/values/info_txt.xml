@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Павлодар</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>Ближайшие объекты к дому</b> <BR>
+        Школа №42, поликлиника №4, магазин бытовой техники "Мечта", Назарбаевская Интеллектуальная Школа и Кардиохирургический центр<BR>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">Школа №42</string>
+    <string name="marker1_txt_click">Школа №42</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>Школа №42
+           </b><BR>
+        Учебное госудаственное заведение для получения общего образования.<BR>
+        Телефон: +7 7182 62 62 86<BR>
+        Адрес: г.Павлодар, ул.Ткачева, 15<BR>
+        Сайт: https://goo.edu.kz/index/fromorg/49<BR>
+        email: Auezova@goo.edu.kz<BR>
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/FOURTYTWO/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">Поликлиника №4</string>
+    <string name="marker2_txt_click">Поликлиника №4</string>
+    <string name="marker2_info">
+        <![CDATA[
+        <b>Поликлиника №4 г.Павлодар </b> <BR>  —  многопрофильное или специализированное лечебно-профилактическое учреждение
+        для оказания амбулаторной медицинской помощи больным на приёме и на дому.<BR>
+        Телефон: +7 7182 76 40 85 <BR>
+        Адрес: ул. Ткачева 16/1<BR>
+        Сайт: https://depzdravgov.kz/index/fromorg/41 <BR>
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/AMBULANCE/index.html</string>
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">Мечта</string>
+    <string name="marker3_txt_click">Мечта</string>
+    <string name="marker3_info">
+        <![CDATA[
+        <b>"Мечта"
+           </b><BR>
+         - специализированная торговая сеть магазинов электроники и бытовой техники. <BR>
+        Компания является одной из ведущих торговых сетей по продаже бытовой техники в Казахстане, в которой работает более 3300 человек.<BR>
+        Телефон: +7 7182 73 13 30<BR>
+        Адрес: Бекхожина ул. 3/2, Павлодар 140000<BR>
+        Сайт: http://www.mechta.kz/ <BR>
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/MECHTA/index.html</string>
+
+    <!--  -->
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">НИШ</string>
+    <string name="marker4_txt_click">NIS</string>
+    <string name="marker4_info">
+        <![CDATA[
+        <b>Назарбаевская интеллектуальная школа. </b> <BR>
+        Школа для одаренных учащихся в возрасте от 5 до 18 лет<BR>
+        Телефон: +7 7182 70 47 40 <BR>
+        Адрес: Ткачева ул. 16/2, Павлодар 140000<BR>
+        Сайт: http://pvl.nis.edu.kz/<BR>
+        ]]>
+        </string>
+    <string name="marker4_file">file:///android_asset/NIS/index.html</string>
+
+    <!--  -->
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">Павлодарский Областной Кардиологический Центр</string>
+    <string name="marker5_txt_click">Павлодарский Областной Кардиологический Центр</string>
+    <string name="marker5_info">
+        <![CDATA[
+        <b>Павлодарский Областной Кардиологический Центр </b> <BR>  — медицинское учреждение, специализирующееся на лечении заболеваний сердца, расположенное в городе Павлодар. <BR>
+
+        Телефон: +7 7182 39 08 00<BR>
+        Адрес: 3, Ткачева ул. 10, Павлодар 140000<BR>
+        Сайт: https://cardiomedical.kz/
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/CARDIO/index.html</string>
+
+</resources>
